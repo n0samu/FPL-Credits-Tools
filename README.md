@@ -1,5 +1,5 @@
 # FPL Credits Tools
-Tools for working with [Flashpoint Launcher](https://github.com/flashpointproject/launcher) Credits files (`credits.json`).
+Tools for working with [Flashpoint Launcher](https://github.com/flashpointproject/launcher) [Credits files](https://github.com/FlashpointProject/launcher_DiscordCredits) (`credits.json`).
 
 ## csvExport.py
 Export credits to a CSV spreadsheet, including each contributor's Discord ID, username, and description.
