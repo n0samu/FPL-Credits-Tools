@@ -1,4 +1,4 @@
-# FPL-Credits-Tools
+# FPL Credits Tools
 Tools for working with [Flashpoint Launcher](https://github.com/flashpointproject/launcher) Credits files (`credits.json`).
 
 ## csvExport.py
